@@ -1,0 +1,7 @@
+### GET request to example server
+POST http://localhost:8080/api/votes
+Content-Type: application/json
+
+3
+
+###
